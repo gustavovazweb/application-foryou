@@ -162,7 +162,7 @@ For a teacher it helps to bring in additional income, while doing what they love
 **WEB Version**:
 * For teachers: Register your personal information and wait for students come and contact you for language classes.
 
-**Mobile Version**: Work in progress.
+**Mobile Version**:
 * For students: Look for a teacher, filtering by teachers who are avalaible any day and time you want, it's all up to you.
 
 ## Getting started
