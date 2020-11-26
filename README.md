@@ -1,6 +1,6 @@
 # Foryou - Your language study platform
 
-This is an educational platform application which I'm currently working on, I'm still developing it, and so, it's just a work in progress.
+This is an educational platform application I'm currently working on, I'm still developing it, and so, it's just a work in progress.
 
 Education is the foundation of success and too often students are left frustrated and without a place to turn. Foryou was created to connect students with qualified language tutors. Our mission is to ensure that all students get the proper academic support to reach their goals.
 
