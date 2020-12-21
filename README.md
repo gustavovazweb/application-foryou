@@ -6,7 +6,7 @@ Education is the foundation of success and too often students are left frustrate
 
 Students are balancing many things; working, studying, taking care of their families, maintaining a social life and much more. Our goal is to find a reputable tutor who will fit within their schedule and at an affordable price. For a teacher it helps to bring in additional income, while doing what they love...
 
-...so basically this is what Foryou is about.
+...so basically this is what Foryou is all about.
  
 ## Screenshots
 <!--Web Interface-->
