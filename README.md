@@ -166,7 +166,7 @@ Students are balancing many things; working, studying, taking care of their fami
 * For students: Look for a teacher, filtering by teachers who are avalaible any day and time you want, it's all up to you.
 
 ## Getting started
-To execute the project, it will be necessary to install / use the following applications:
+Install the following applications:
 * Node.js
 * Yarn
 * React
