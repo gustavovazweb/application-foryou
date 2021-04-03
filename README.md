@@ -4,9 +4,7 @@ This is an educational platform application I'm currently working on, I'm still 
 
 Education is the foundation of success and too often students are left frustrated and without a place to turn. Foryou was created to connect students with qualified language tutors. Our mission is to ensure that all students get the proper academic support to reach their goals.
 
-Students are balancing many things; working, studying, taking care of their families, maintaining a social life and much more. Our goal is to find a reputable tutor who will fit within their schedule and at an affordable price. For a teacher it helps to bring in additional income, while doing what they love...
-
-...so basically this is what Foryou is all about.
+Students are balancing many things; working, studying, taking care of their families, maintaining a social life and much more. Our goal is to find a reputable tutor who will fit within their schedule and at an affordable price. For a teacher it helps to bring in additional income, while doing what they love, so basically this is what Foryou is all about.
  
 ## Screenshots
 <!--Web Interface-->
